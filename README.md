@@ -1,0 +1,2 @@
+# pythonAutoClicker
+autoclicker using pynput
